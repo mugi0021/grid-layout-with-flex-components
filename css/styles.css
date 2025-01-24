@@ -19,9 +19,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
-    ;
-
+    width: 900px;
   }
+  
   
   .emoji h2 {
     margin: 0;
